@@ -2,14 +2,15 @@
 
 # 👑 Viacheslau Bushyla (`@ViacheslauBushyla`)
 
-### ⚡ Solution Architect • Test Architect • Quality & AI Systems ⚡
+### ⚡ Solution Architect • Test Architect • Trading Systems & AI Engineering ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Solution+Architect+%7C+Test+Architect+(15%2B+Yrs+Exp);Co-Founder+%26+Architect+%40+fnxt.app;Enterprise+Architecture+%26+Quality+Engineering;Autonomous+AI+Agents+%26+Multi-Agent+Swarms;Bridge+Engineer%3A+Gemini+%7C+Claude+%7C+OpenAI+%7C+MCP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Solution+Architect+%7C+Test+Architect+(15%2B+Yrs+Exp);10%2B+Years+Trading+Domain+%26+Hedge+Funds;Co-Founder+%26+Architect+%40+fnxt.app;Trading+Platforms%3A+C%2B%2B+%7C+C%23+%7C+.NET+%7C+NRules;Quality+Architecture%3A+NUnit+%7C+Playwright+%7C+Protractor;Autonomous+AI+Agents+%26+Multi-Agent+Swarms)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://fnxt.app"><img src="https://img.shields.io/badge/Project-fnxt.app-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="FNXT App" /></a>
   <a href="https://www.linkedin.com/in/viacheslau-bushyla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Experience-15%2B_Years-238636?style=for-the-badge&logo=buffer&logoColor=white" alt="15+ Years Experience" />
+  <img src="https://img.shields.io/badge/Architecture-15%2B_Years-238636?style=for-the-badge&logo=buffer&logoColor=white" alt="15+ Years Architecture" />
+  <img src="https://img.shields.io/badge/Trading_%26_Hedge_Funds-10%2B_Years-F59E0B?style=for-the-badge&logo=tradingview&logoColor=white" alt="10+ Years Trading" />
   <img src="https://komarev.com/ghpvc/?username=ViacheslauBushyla&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
@@ -31,10 +32,11 @@
 
 ## 🌌 Executive Overview
 
-- 🏛️ **Enterprise Solution & Test Architecture**: 15+ years architecting resilient distributed systems, enterprise software platforms, advanced test automation ecosystems, and high-load infrastructures.
-- ⚡ **Flagship AI Platform — [fnxt.app](https://fnxt.app)**: Core architect driving next-generation quantitative AI benchmark platform evaluating multi-model intelligence, empirical reasoning, and autonomous strategy execution.
-- 🧪 **Quality Engineering & Test Optimization**: Expert in enterprise test frameworks, test suite scheduling algorithms (Knapsack optimization), CI/CD quality gates, and performance/load scalability.
-- 🧠 **Autonomous AI & Multi-Agent Systems**: Designing high-throughput agent workflows, Model Context Protocol (MCP) toolchains, and LLM evaluation middleware.
+- 🏛️ **15+ Years Enterprise Solution & Test Architecture**: Architecting high-load distributed backends, resilient cloud infrastructures, complex multi-tenant systems, and end-to-end quality platforms.
+- 📈 **10+ Years Trading Domain & Hedge Funds**: Deep domain experience in algorithmic trading systems, quantitative execution, complex event processing, rule-based engines (**NRules**), risk management, and financial compliance.
+- ⚡ **Flagship AI Platform — [fnxt.app](https://fnxt.app)**: Core architect driving next-generation quantitative AI benchmark platform evaluating multi-model intelligence, empirical reasoning, and autonomous trading strategies across Crypto &amp; RWA.
+- 🧪 **Quality Engineering & Test Architecture**: Designing scalable automated testing ecosystems (**NUnit**, **Playwright**, **Protractor**, PyTest), knapsack-based test suite optimization, and CI/CD quality gates.
+- 🧠 **Autonomous AI & Multi-Agent Swarms**: Designing high-throughput agent workflows, Model Context Protocol (MCP) toolchains, and LLM reasoning pipelines.
 
 ---
 
@@ -52,7 +54,18 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Agentic SDK & Multi-Agent Swarms<br><sub>🔗 <a href="https://github.com/ViacheslauBushyla/agent-sdk">agent-sdk</a></sub></h3>
+      <h3>📈 Trading &amp; Rule Engine Architecture<br><sub>🔗 <a href="https://fnxt.app">Quantitative Systems</a></sub></h3>
+      <p>High-performance rule-based execution, risk management, and complex event processing pipelines powered by <b>C#</b>, <b>.NET</b>, <b>NRules</b>, and <b>C++</b> for financial platforms and hedge funds.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# .NET" />
+        <img src="https://img.shields.io/badge/NRules-FF6B00?style=flat-square&logo=codeigniter&logoColor=white" alt="NRules" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Agentic SDK &amp; Multi-Agent Swarms<br><sub>🔗 <a href="https://github.com/ViacheslauBushyla/agent-sdk">agent-sdk</a></sub></h3>
       <p>Modular SDK for building autonomous multi-agent workflows, tool execution decorators, dynamic consensus panels, and MCP-integrated LLM reasoning pipelines.</p>
       <p>
         <img src="https://img.shields.io/badge/Agent_SDK-FF3366?style=flat-square&logo=openai&logoColor=white" alt="Agent SDK" />
@@ -60,24 +73,13 @@
         <img src="https://img.shields.io/badge/MCP_Protocol-0284C7?style=flat-square&logo=diagram-next&logoColor=white" alt="MCP" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>🧪 Test Automation & Suite Optimization<br><sub>🔗 <a href="https://github.com/ViacheslauBushyla/test_automation_optimization">test_automation_optimization</a></sub></h3>
+      <h3>🧪 Test Automation &amp; Suite Optimization<br><sub>🔗 <a href="https://github.com/ViacheslauBushyla/test_automation_optimization">test_automation_optimization</a></sub></h3>
       <p>Knapsack-based algorithmic test optimization and intelligent test selection engine minimizing test execution time while maximizing failure detection coverage.</p>
       <p>
         <img src="https://img.shields.io/badge/Optimization-10B981?style=flat-square&logo=algorithm&logoColor=white" alt="Optimization" />
-        <img src="https://img.shields.io/badge/Test_Architecture-E72264?style=flat-square&logo=speedtest&logoColor=white" alt="Test Architecture" />
+        <img src="https://img.shields.io/badge/NUnit_%2F_Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Test Frameworks" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏗️ Distributed Quality & CI/CD Ecosystems<br><sub>🔗 <a href="https://fnxt.app">Quality & Testing Architecture</a></sub></h3>
-      <p>End-to-end quality architecture, parallelized test execution grids, automated regressions, and performance benchmark suites for high-concurrency systems.</p>
-      <p>
-        <img src="https://img.shields.io/badge/CI%2FCD_Gates-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-        <img src="https://img.shields.io/badge/Playwright_%2F_PyTest-45BA4B?style=flat-square&logo=pytest&logoColor=white" alt="PyTest" />
-        <img src="https://img.shields.io/badge/High_Concurrency-FF9900?style=flat-square&logo=fastapi&logoColor=white" alt="Performance" />
       </p>
     </td>
   </tr>
@@ -87,8 +89,10 @@
 
 ## 🛠️ Complete Tech Stack & Toolbelt
 
-### 🧪 Test Architecture, QA & Performance Engineering
+### 🧪 Test Architecture, QA & Automation
 <p align="left">
+  <img src="https://img.shields.io/badge/NUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="NUnit" />
+  <img src="https://img.shields.io/badge/Protractor-E23237?style=flat-square&logo=protractor&logoColor=white" alt="Protractor" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
@@ -99,6 +103,18 @@
   <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter" />
   <img src="https://img.shields.io/badge/Locust-000000?style=flat-square&logo=locust&logoColor=white" alt="Locust" />
   <img src="https://img.shields.io/badge/ReportPortal-39C2D7?style=flat-square&logo=diagram-next&logoColor=white" alt="ReportPortal" />
+</p>
+
+### ⚙️ .NET, C++, Trading & Rule Engines
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET_%2F_.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/NRules_Engine-FF6B00?style=flat-square&logo=codeigniter&logoColor=white" alt="NRules" />
+  <img src="https://img.shields.io/badge/Trading_Systems-F59E0B?style=flat-square&logo=tradingview&logoColor=white" alt="Trading Systems" />
+  <img src="https://img.shields.io/badge/Hedge_Fund_Tech-10B981?style=flat-square&logo=bank&logoColor=white" alt="Hedge Funds" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR" />
 </p>
 
 ### 🤖 AI, LLMs & Multi-Agent Swarms
@@ -131,6 +147,8 @@
 
 ### 💻 Programming Languages & Frameworks
 <p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -155,5 +173,5 @@
 ---
 
 <div align="center">
-  <sub><i>"Architecting resilient systems and engineering high-precision quality across enterprise AI and distributed platforms."</i></sub>
+  <sub><i>"Architecting resilient systems and engineering high-precision quality across quantitative trading, AI swarms, and enterprise platforms."</i></sub>
 </div>

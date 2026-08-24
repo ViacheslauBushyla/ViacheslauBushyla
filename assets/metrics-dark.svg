@@ -20,27 +20,27 @@
   <!-- Card 2 -->
   <g transform="translate(213, 5)">
     <rect width="200" height="126" class="card-bg" />
-    <text x="16" y="38" class="metric-title" fill="#7ee787">⚡ fnxt.app</text>
-    <text x="16" y="68" class="metric-label">AI Benchmark Platform</text>
-    <text x="16" y="90" class="metric-sub">Quantitative evaluation,</text>
-    <text x="16" y="106" class="metric-sub">empirical LLM reasoning</text>
+    <text x="16" y="38" class="metric-title" fill="#7ee787">📈 10+ Yrs</text>
+    <text x="16" y="68" class="metric-label">Trading &amp; Hedge Funds</text>
+    <text x="16" y="90" class="metric-sub">Quantitative execution,</text>
+    <text x="16" y="106" class="metric-sub">rule engines &amp; low-latency</text>
   </g>
 
   <!-- Card 3 -->
   <g transform="translate(426, 5)">
     <rect width="200" height="126" class="card-bg" />
-    <text x="16" y="38" class="metric-title" fill="#f0883e">🧪 Test &amp; QA</text>
-    <text x="16" y="68" class="metric-label">Quality Architecture</text>
-    <text x="16" y="90" class="metric-sub">Test suite optimization,</text>
-    <text x="16" y="106" class="metric-sub">CI/CD gates &amp; resilience</text>
+    <text x="16" y="38" class="metric-title" fill="#f0883e">⚡ fnxt.app</text>
+    <text x="16" y="68" class="metric-label">AI Benchmark Platform</text>
+    <text x="16" y="90" class="metric-sub">Quantitative evaluation,</text>
+    <text x="16" y="106" class="metric-sub">empirical LLM reasoning</text>
   </g>
 
   <!-- Card 4 -->
   <g transform="translate(640, 5)">
     <rect width="200" height="126" class="card-bg" />
-    <text x="16" y="38" class="metric-title" fill="#79c0ff">🤖 AI Agents</text>
-    <text x="16" y="68" class="metric-label">Multi-Agent &amp; MCP</text>
-    <text x="16" y="90" class="metric-sub">Autonomous workflows,</text>
-    <text x="16" y="106" class="metric-sub">consensus &amp; toolchains</text>
+    <text x="16" y="38" class="metric-title" fill="#79c0ff">🧪 QA &amp; AI</text>
+    <text x="16" y="68" class="metric-label">Quality &amp; Swarm Arch</text>
+    <text x="16" y="90" class="metric-sub">NUnit, Playwright, NRules,</text>
+    <text x="16" y="106" class="metric-sub">MCP &amp; Multi-Agent systems</text>
   </g>
 </svg>
