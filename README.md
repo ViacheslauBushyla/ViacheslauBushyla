@@ -2,14 +2,14 @@
 
 # 👑 Viacheslau Bushyla (`@ViacheslauBushyla`)
 
-### ⚡ Solution Architect • Test Architect • Trading Systems & AI Engineering ⚡
+### ⚡ Solution Architect • Test Architect • Claude Certified Architect • Trading Systems ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Solution+Architect+%7C+Test+Architect+(15%2B+Yrs+Exp);10%2B+Years+Trading+Domain+%26+Hedge+Funds;Co-Founder+%26+Architect+%40+fnxt.app;Trading+Platforms%3A+C%2B%2B+%7C+C%23+%7C+.NET+%7C+NRules;Quality+Architecture%3A+NUnit+%7C+Playwright+%7C+Protractor;Autonomous+AI+Agents+%26+Multi-Agent+Swarms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Claude+Certified+Architect+%F0%9F%8F%86;Solution+Architect+%7C+Test+Architect+(15%2B+Yrs);10%2B+Years+Trading+Domain+%26+Hedge+Funds;Co-Founder+%26+Architect+%40+fnxt.app;Trading+Platforms%3A+C%2B%2B+%7C+C%23+%7C+.NET+%7C+NRules;Quality+Architecture%3A+NUnit+%7C+Playwright+%7C+Protractor;Autonomous+AI+Agents+%26+Multi-Agent+Swarms)](https://git.io/typing-svg)
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Claude_Certified-Architect-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Certified Architect" />
   <a href="https://fnxt.app"><img src="https://img.shields.io/badge/Project-fnxt.app-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="FNXT App" /></a>
   <a href="https://www.linkedin.com/in/viacheslau-bushyla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Architecture-15%2B_Years-238636?style=for-the-badge&logo=buffer&logoColor=white" alt="15+ Years Architecture" />
   <img src="https://img.shields.io/badge/Trading_%26_Hedge_Funds-10%2B_Years-F59E0B?style=for-the-badge&logo=tradingview&logoColor=white" alt="10+ Years Trading" />
   <img src="https://komarev.com/ghpvc/?username=ViacheslauBushyla&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
@@ -30,13 +30,24 @@
 
 ---
 
+## 🏆 Certifications & Achievements
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Anthropic_Claude-Certified_Architect-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Certified Architect" />
+  <img src="https://img.shields.io/badge/Enterprise_Architecture-15%2B_Years-238636?style=for-the-badge&logo=buffer&logoColor=white" alt="Enterprise Architecture" />
+</p>
+
+- 🎖️ **Claude Certified Architect**: Anthropic-certified AI architect specializing in autonomous multi-agent swarms, Model Context Protocol (MCP) toolchains, structured prompt engineering, and production-grade LLM architectures.
+
+---
+
 ## 🌌 Executive Overview
 
+- 🏆 **Claude Certified Architect**: Verified expertise in architecting autonomous AI workflows, MCP server networks, tool execution decorators, and multi-agent reasoning consensus.
 - 🏛️ **15+ Years Enterprise Solution & Test Architecture**: Architecting high-load distributed backends, resilient cloud infrastructures, complex multi-tenant systems, and end-to-end quality platforms.
 - 📈 **10+ Years Trading Domain & Hedge Funds**: Deep domain experience in algorithmic trading systems, quantitative execution, complex event processing, rule-based engines (**NRules**), risk management, and financial compliance.
 - ⚡ **Flagship AI Platform — [fnxt.app](https://fnxt.app)**: Core architect driving next-generation quantitative AI benchmark platform evaluating multi-model intelligence, empirical reasoning, and autonomous trading strategies across Crypto &amp; RWA.
 - 🧪 **Quality Engineering & Test Architecture**: Designing scalable automated testing ecosystems (**NUnit**, **Playwright**, **Protractor**, PyTest), knapsack-based test suite optimization, and CI/CD quality gates.
-- 🧠 **Autonomous AI & Multi-Agent Swarms**: Designing high-throughput agent workflows, Model Context Protocol (MCP) toolchains, and LLM reasoning pipelines.
 
 ---
 
@@ -119,9 +130,10 @@
 
 ### 🤖 AI, LLMs & Multi-Agent Swarms
 <p align="left">
+  <img src="https://img.shields.io/badge/Claude_Certified_Architect-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Certified" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/MCP_Protocol-0284C7?style=flat-square&logo=diagram-next&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/FastMCP-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastMCP" />

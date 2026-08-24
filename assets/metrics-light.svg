@@ -29,18 +29,18 @@
   <!-- Card 3 -->
   <g transform="translate(426, 5)">
     <rect width="200" height="126" class="card-bg" />
-    <text x="16" y="38" class="metric-title" fill="#bc4c00">⚡ fnxt.app</text>
-    <text x="16" y="68" class="metric-label">AI Benchmark Platform</text>
-    <text x="16" y="90" class="metric-sub">Quantitative evaluation,</text>
-    <text x="16" y="106" class="metric-sub">empirical LLM reasoning</text>
+    <text x="16" y="38" class="metric-title" fill="#bc4c00">🏆 Certified</text>
+    <text x="16" y="68" class="metric-label">Claude Architect</text>
+    <text x="16" y="90" class="metric-sub">Anthropic AI Architect,</text>
+    <text x="16" y="106" class="metric-sub">MCP &amp; Agent Swarms</text>
   </g>
 
   <!-- Card 4 -->
   <g transform="translate(640, 5)">
     <rect width="200" height="126" class="card-bg" />
-    <text x="16" y="38" class="metric-title" fill="#0969da">🧪 QA &amp; AI</text>
-    <text x="16" y="68" class="metric-label">Quality &amp; Swarm Arch</text>
-    <text x="16" y="90" class="metric-sub">NUnit, Playwright, NRules,</text>
-    <text x="16" y="106" class="metric-sub">MCP &amp; Multi-Agent systems</text>
+    <text x="16" y="38" class="metric-title" fill="#0969da">⚡ fnxt.app</text>
+    <text x="16" y="68" class="metric-label">AI Benchmark Platform</text>
+    <text x="16" y="90" class="metric-sub">Empirical LLM reasoning,</text>
+    <text x="16" y="106" class="metric-sub">strategy &amp; swarm eval</text>
   </g>
 </svg>
